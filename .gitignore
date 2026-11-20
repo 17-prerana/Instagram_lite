@@ -1,0 +1,12 @@
+node_modules/
+client/node_modules/
+client/dist/
+coverage/
+.env
+.env.*
+!.env.example
+client/.env
+client/.env.*
+!client/.env.example
+logs/
+uploads/
